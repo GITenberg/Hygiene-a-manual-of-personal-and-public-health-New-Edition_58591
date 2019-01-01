@@ -1,11 +1,16 @@
 _repo: Hygiene-a-manual-of-personal-and-public-health-New-Edition_58591
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58591-h/images/cover.jpg
 creator:
   author:
     agent_name: Newsholme, Sir Arthur
     gutenberg_agent_id: '50044'
     url: http://www.gutenberg.org/2009/agents/50044
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58591#Hygiene-a-manual-of-personal-and-public-health-New-Edition
 gutenberg_issued: '2019-01-01'
 gutenberg_type: Text
 identifiers:
